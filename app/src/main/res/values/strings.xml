@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="new_weather_app">New Weather App</string>
+    <string name="made_with_by_papaji">Made with ❤️ by PapaJi</string>
+    <string name="exit_alert">Exit Alert</string>
+    <string name="do_you_want_to_exit">DO you want to exit</string>
+</resources>
